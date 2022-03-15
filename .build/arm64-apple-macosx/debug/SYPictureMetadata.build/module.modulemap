@@ -1,0 +1,4 @@
+module SYPictureMetadata {
+    header "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYPictureMetadata-Swift.h"
+    requires objc
+}

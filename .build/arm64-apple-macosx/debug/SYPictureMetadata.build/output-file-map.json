@@ -1,0 +1,149 @@
+{
+  "": {
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/master.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadata.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadata8BIM.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata8BIM.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata8BIM.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata8BIM~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadata8BIM.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataBase.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataBase.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataBase.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataBase~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataBase.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataCIFF.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataCIFF.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataCIFF.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataCIFF~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataCIFF.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataDNG.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataDNG.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataDNG.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataDNG~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataDNG.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataExif.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExif.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExif.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExif~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExif.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataExifAux.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExifAux.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExifAux.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExifAux~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExifAux.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataExportedKeys.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExportedKeys.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExportedKeys.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExportedKeys~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExportedKeys.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataExtensions.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExtensions.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExtensions.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataExtensions.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataGIF.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGIF.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGIF.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGIF~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGIF.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataGPS.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGPS.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGPS.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGPS~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataGPS.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataIPTC.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTC.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTC.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTC~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTC.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataIPTCContactInfo.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTCContactInfo.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTCContactInfo.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTCContactInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataIPTCContactInfo.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataJFIF.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataJFIF.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataJFIF.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataJFIF~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataJFIF.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerApple.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerApple.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerApple.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerApple~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerApple.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerCanon.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerCanon.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerCanon.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerCanon~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerCanon.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerFuji.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerFuji.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerFuji.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerFuji~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerFuji.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerMinolta.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerMinolta.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerMinolta.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerMinolta~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerMinolta.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerNikon.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerNikon.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerNikon.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerNikon~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerNikon.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerOlympus.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerOlympus.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerOlympus.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerOlympus~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerOlympus.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataMakerPentax.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerPentax.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerPentax.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerPentax~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataMakerPentax.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataPNG.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataPNG.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataPNG.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataPNG~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataPNG.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataRaw.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataRaw.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataRaw.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataRaw~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataRaw.swiftdeps"
+  },
+  "/Users/doomslug/Work/SYPictureMetadata/Sources/SYPictureMetadata/SYMetadataTIFF.swift": {
+    "dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataTIFF.d",
+    "object": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataTIFF.swift.o",
+    "swiftmodule": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataTIFF~partial.swiftmodule",
+    "swift-dependencies": "/Users/doomslug/Work/SYPictureMetadata/.build/arm64-apple-macosx/debug/SYPictureMetadata.build/SYMetadataTIFF.swiftdeps"
+  }
+}
