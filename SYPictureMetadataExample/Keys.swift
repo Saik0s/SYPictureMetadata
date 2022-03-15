@@ -8,7 +8,7 @@
 
 import Foundation
 
-enum Keys: String, CaseIterable {
+public enum Keys: String, CaseIterable {
     case imageIO = "ImageIO.txt"
     case supported = "Supported.txt"
     case unsupported = "Unsupported.txt"

@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import SYPictureMetadata
+@testable import SYPictureMetadata
 
 var readKeys = Set<String>()
 var writtenKeys = Set<String>()

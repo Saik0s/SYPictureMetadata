@@ -51,7 +51,7 @@ public class SYMetadata: SYMetadataBase {
         #if os(macOS) || targetEnvironment(macCatalyst)
         PHImageManager.default().requestImageDataAndOrientation(for: asset, options: options) { (data, _, _, _) in  completion(data) }
         #else
-        PHImageManager.default().requestImageData(for: asset, options: options) { (data, _, _, _) in completion(data) }
+        PHImageManager.default().requestImageDataAndOrientation(for: asset, options: options) { (data, _, _, _) in completion(data) }
         #endif
     }
     
