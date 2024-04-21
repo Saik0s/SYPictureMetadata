@@ -14,11 +14,7 @@ public enum Keys: String, CaseIterable {
     case unsupported = "Unsupported.txt"
     
     var url: URL! {
-        #if EXAMPLE
-        return Bundle(for: AppDelegate.self).url(forResource: rawValue, withExtension: nil, subdirectory: "Keys")
-        #elseif TEST
-        return Bundle(for: SYPictureMetadataTests.self).url(forResource: rawValue, withExtension: nil, subdirectory: "Keys")
-        #endif
+        return Bundle.module.url(forResource: rawValue, withExtension: nil)
     }
     
     func read() -> [String] {

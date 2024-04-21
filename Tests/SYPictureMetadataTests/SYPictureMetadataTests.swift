@@ -51,7 +51,7 @@ class SYPictureMetadataTests: XCTestCase {
         }
 
         // File list is complete
-        let knownFiles = TestFile.allCases.map { $0.url! }
+        let knownFiles = (TestFile.allCases.map { $0.url! } + Keys.allCases.map { $0.url! })
             .map { $0.standardizedFileURL.path }
             .sorted()
         let parentDir = TestFile.nikon.url.deletingLastPathComponent()

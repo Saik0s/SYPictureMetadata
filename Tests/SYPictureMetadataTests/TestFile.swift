@@ -24,11 +24,7 @@ enum TestFile: String, CaseIterable {
     case unreadable = "TEST_unreadable.txt"
     
     var url: URL! {
-        #if EXAMPLE
-        return Bundle(for: AppDelegate.self).url(forResource: rawValue, withExtension: nil, subdirectory: "Test images")
-        #elseif TEST
-        return Bundle(for: SYPictureMetadataTests.self).url(forResource: rawValue, withExtension: nil, subdirectory: "Test images")
-        #endif
+        return Bundle.module.url(forResource: rawValue, withExtension: nil)
     }
     
     func readMetadata() throws -> SYMetadata {
